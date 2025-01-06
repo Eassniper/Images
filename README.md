@@ -1,4 +1,4 @@
-# Prompts and Odor Visualization Images
+![04](https://github.com/user-attachments/assets/eb584c69-71f2-48ba-98d6-c6f123410a06)# Prompts and Odor Visualization Images
 
 ### 1 Lemon
 Form1: A Painting of Lemon odor
@@ -60,6 +60,12 @@ Form4: an abstract painting of green tea odor, Soft greens and earthy browns, Ge
 Form5: an abstract painting of green tea odor, Soft greens and earthy browns, Gentle, flowing curves, Smooth with areas of Frottage, Art Nouveau
 <br><img src="https://s2.loli.net/2025/01/06/Nr8m5VTiJckoBFI.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/AmyICcbgQupt3oS.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/94VwznlqmgH8brT.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/L2n7beQgjtApDdB.png" height="200">
 
+Form6: an abstract painting of green tea odor, Soft greens and earthy browns, Gentle, flowing curves, Smooth with areas of Frottage, Mark Rothko
+<br><img src="https://s2.loli.net/2025/01/06/2OryVGpEe8Monb1.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/BALvyJeqWXcQHdK.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/vrpmACudnJQoKPF.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/ImtEFkVSrbNY7yX.png" width="200" height="200">
+
+Form7：an abstract painting of green tea odor, Earthy brown and green color, Organic and flowing line, natural shape, Smooth and frottage texture
+<br><img src="https://s2.loli.net/2025/01/06/uxEzNnJwUW6kIMK.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/gKTEe9uFQfdAs5L.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/vAsELtN6pBkX7nJ.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/kPqGDl53i7fSJOs.png" width="200" height="200">
+
 ### 4 Baijiu
 Form1：A painting of Baijiu odor
 <br><img src="https://s2.loli.net/2025/01/04/qKCvhcoXWSNbyuQ.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/04/t5Wi3O4McdSoTzC.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/04/FGS2bU1nsBazZCl.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/04/tGcb4dvJAKwIy8q.png" width="200" height="200">
@@ -75,6 +81,12 @@ Form4: an abstract painting of baijiu odor, Deep reds with hints of amber, Sharp
 
 Form5: an abstract painting of baijiu odor, Deep reds with hints of amber, Sharp and angular forms, Rough with elements of Engraving, Expressionism
 <img src="https://s2.loli.net/2025/01/06/9UZrtFoycaJCxXs.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/JacwguxyHtTU8VM.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/SDCQpWRE9FztvP5.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/jbtmZ4A8Ui56p23.png" width="200" height="200">
+
+Form6: an abstract painting of baijiu odor, Deep reds with hints of amber, Sharp and angular forms, Rough with elements of Engraving, Mark Rothko
+<br><img src="https://s2.loli.net/2025/01/06/VA7TluNGYbxd5XI.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/zfsuNABEtMiW48K.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/H72bELsNgkVfedW.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/yO1Qj5Nws9tdXAz.png" width="200" height="200">
+
+Form7: an abstract painting of baijiu odor, Deep amber and golden color, Complex and organic shape, Rough and frottage texure
+<br><img src="https://s2.loli.net/2025/01/06/pyJzZnaxLVjMrFh.png" width="200" height="200"><img src="https://s2.loli.net/2025/01/06/3rgplS2GTxVd6Jb.png" width="200" height="200"><img src="https://s2.loli.net/2025/01/06/jOwHeZbzUqhGsuM.png" width="200" height="200"><img src="https://s2.loli.net/2025/01/06/MdQuV39blUHr1zJ.png" width="200" height="200">
 
 ### 5 Coffee Beans
 Form1:A painting of Coffee Beans odor
@@ -92,6 +104,12 @@ Form4: an abstract painting of Coffee beans odor, Rich and dark brown with touch
 Form5：an abstract painting of Coffee beans odor, Rich and dark brown with touches of black, Bold and irregular shapes, Rough with elements of Corrugated texture, Expressionism
 <br><img src="https://s2.loli.net/2025/01/06/YDJBzIodxmQKuHg.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/ebT5Q3ZV2DOplN1.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/CkgazTvYMUy6QnN.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/LhbpkUCBe1x6QEO.png" width="200" height="200">
 
+Form6: an abstract painting of Coffee beans odor, Rich and dark brown with touches of black, Bold and irregular shapes, Rough with elements of Corrugated texture, Mark Rothko
+<br><img src="https://s2.loli.net/2025/01/06/bnUl8iMJVycHX3B.png" width="200" height="200"><img src="https://s2.loli.net/2025/01/06/sR2FSMATUD6u9q1.png" width="200" height="200"><img src="https://s2.loli.net/2025/01/06/UtXPpOBRTDqgesm.png" width="200" height="200"><img src="https://s2.loli.net/2025/01/06/qGnv5RyhpVXzmrj.png" width="200" height="200">
+
+Form7: an abstract painting of Coffee beans odor, Rich brown and black color, Rounded and bold shape, Smooth and corrugated texure
+<br><img src="https://s2.loli.net/2025/01/06/oj2hpYOrcHXKUIa.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/OzsRtE8QfL2h6ny.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/8qi4hTEL5b7zvYx.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/vOXGoeKNI6rnP1z.png" width="200" height="200">
+
 ### 6 Vinegar
 Form1: A painting of Vinegar odor
 <br><img src="https://s2.loli.net/2025/01/04/8CFDGim1H34Sg5I.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/04/UrZNpbWQL2evSwl.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/04/MofxzeBWOnFCjYh.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/04/LRSD2BvfjeryPxz.png" width="200" height="200">
@@ -107,6 +125,12 @@ Form4: an abstract painting of Vinegar odor, Sharp contrasts of deep red and bri
 
 Form5: an abstract painting of Vinegar odor, Sharp contrasts of deep red and bright yellow, Jagged and angular form, corrugated texture, Futurism 
 <br><img src="https://s2.loli.net/2025/01/06/t1Ypl8m63hSBJMc.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/QXCurnEMGcwtFD6.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/y1NH5mxWQBaRJ6C.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/DwOiJdz9EKW6H8Q.png" width="200" height="200">
+
+Form6: an abstract painting of Vinegar odor, Sharp contrasts of deep red and bright yellow, Jagged and angular form, corrugated texture, Mark Rothko
+<br><img src="https://s2.loli.net/2025/01/06/8mLO29IQxJ7ouBT.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/wx1YieR2kNpvcTX.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/sfkqtc5CaGw84VL.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/b3KwxpeOI2ulitk.png" width="200" height="200">
+
+Form7: an abstract painting of Vinegar odor, Pale yellow and green color, Angular and sharp line, Rough and corrugated texture
+<br><img src="https://s2.loli.net/2025/01/06/2JMdY6cH3aABuUQ.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/N6BdmrXSUzP5peh.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/so1TeF8QiSJcOf9.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/AqevjF4PwoxXVrh.png" width="200" height="200">
 
 ### 7 Sesame Oil
 Form1: A painting of Sesame Oil odor
@@ -124,6 +148,12 @@ Form4: an abstract painting of Sesame Oil odor, Warm, toasted browns with hints 
 Form5: an abstract painting of Sesame Oil odor, Warm, toasted browns with hints of amber,  Organic and flowing curves, Smooth with elements of Impasto, Surrealism
 <br><img src="https://s2.loli.net/2025/01/06/FwEBI49rZQbJfvu.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/sYzwO8BLolq7fMn.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/uJsxqnNaRgIkyY6.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/cMCB3VeiZTDn8OS.png" width="200" height="200">
 
+Form6: an abstract painting of Sesame Oil odor, Warm, toasted browns with hints of amber,  Organic and flowing curves, Smooth with elements of Impasto, Mark Rothko
+<br><img src="https://s2.loli.net/2025/01/06/oDx3Um2jBzQkd7g.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/TStMNRFcnHB1sVv.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/mGvSYlz41gHI5NR.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/n75kKVwuLOj1DBz.png" width="200" height="200">
+
+Form7: an abstract painting of Sesame Oil odor, Golden brown color, Flowing and organic shape, Smooth and collage texture
+<br><img src="https://s2.loli.net/2025/01/06/l4PjOvfoFCwAkmL.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/w5a6lduIBUJqkQW.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/qYgBS4TvfHbno7F.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/6iIZbhvQk7MDVK5.png" width="200" height="200">
+
 ### 8 Unburned Cigarette
 Form1: A painting of Unburned Cigarette odor
 <br><img src="https://s2.loli.net/2025/01/04/xLw78dcne6KhFY4.png" width="200" height="200">     <img src="https://s2.loli.net/2025/01/04/eiN93O8AYm7vWqX.png" width="200" height="200">     <img src="https://s2.loli.net/2025/01/04/QJc8VaDpAF52gKU.png" width="200" height="200">     <img src="https://s2.loli.net/2025/01/04/8Ma36vIF9hqg5RC.png" width="200" height="200">
@@ -139,6 +169,12 @@ Form4: an bastract painting of unburned cigarette, Warm, toasted browns with hin
 
 Form5: an bastract painting of unburned cigarette, Warm, toasted browns with hints of amber, Organic and flowing curves, Smooth with elements of Frottage, Constructivism
 <img src="https://s2.loli.net/2025/01/06/gBjamdlH9zQRNL2.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/tgeGavRZDXJop7m.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/ngP93GQS621mlcu.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/oR9GKiS3LuDbnFU.png" width="200" height="200">
+
+Form6: an bastract painting of unburned cigarette, Warm, toasted browns with hints of amber, Organic and flowing curves, Smooth with elements of Frottage, Mark Rothko
+<br><img src="https://s2.loli.net/2025/01/06/OgYn5uyWRPtCdkp.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/u8Fxk3fw6b1iJSo.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/Zhgp6OQLYT8eXSs.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/WHe8pjFdTqgwxtV.png" width="200" height="200">
+
+Form7: an abstract painting of unburned cigarette, Dark brown and gray color, Angular and jagged line, Rough and corrugated texture
+<br><img src="https://s2.loli.net/2025/01/06/Ow3P1qRYrsi8vzU.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/AQFSKL3oUTv8w2Z.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/Qo2rdnPLiM8g5mJ.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/dIjSPNye3r6pCbh.png" width="200" height="200">
 
 ### 9 Lily Flower
 Form1：A painting of Lily Flower odor
@@ -156,6 +192,12 @@ Form4: an abstract painting of lily flower odor, Soft whites and delicate greens
 Form5: an abstract painting of lily flower odor, Soft whites and delicate greens, Elegant and flowing curves, Smooth with elements of Fabric, Art Nouveau
 <br><img src="https://s2.loli.net/2025/01/06/nIVdM9sPxpuYKJ3.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/l4ur6zRqGnf5v8K.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/yqIgrMBVO5LcRAl.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/dzjegWp4oDIZtLa.png" width="200" height="200">
 
+Form6: an abstract painting of lily flower odor, Soft whites and delicate greens, Elegant and flowing curves, Smooth with elements of Fabric, Mark Rothko
+<br><img src="https://s2.loli.net/2025/01/06/r3E69qBC574W1ao.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/OsIY9WZze4D1mCT.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/lkCNKeyZ3fLbXDR.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/GjJr6KOuWvVkFyL.png" width="200" height="200">
+
+Form7: an abstract painting of lily flower odor, Soft white and pastel pink color, Delicate and flowing line, smooth and fabric texture
+<br><img src="https://s2.loli.net/2025/01/06/3bMInyzNo5plA7T.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/YzkT3sBIdxe5DfO.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/ZyM7HvFxAjmhLP9.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/xsOdLw3nTq4icJ8.png" width="200" height="200">
+
 ### 10 Latex Paint
 Form1: A painting of Latex Paint odor
 <br><img src="https://s2.loli.net/2025/01/04/eBRDNUowYXO3cGk.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/04/dQ8NLxsT71ZSHUo.png" width="200" height="200">     <img src="https://s2.loli.net/2025/01/04/7e2Y5H6Oxjvaib8.png" width="200" height="200">      <img src="https://s2.loli.net/2025/01/04/49dmbcO7H1kxwoe.png" width="200" height="200">
@@ -171,6 +213,12 @@ Form4: an abstract painting of Latex Paint odor, Glossy whites and pale grays,  
 
 Form5: an abstract painting of Latex Paint odor, Glossy whites and pale grays,  Sharp and jagged lines with smooth overlays, Smooth with elements of Metal, Futurism
 <br><img src="https://s2.loli.net/2025/01/06/2K3JcfrWunhNibM.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/5KXxlv6mpChW9sS.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/cwovdzVpimxS9Qq.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/pYkN76KRjZhiXFx.png" width="200" height="200">
+
+Form6: an abstract painting of Latex Paint odor, Glossy whites and pale grays,  Sharp and jagged lines with smooth overlays, Smooth with elements of Metal, Mark Rothko
+<br><img src="https://s2.loli.net/2025/01/06/tNiqwbB38LQsRUh.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/xQ8qX5WTzu4oOSE.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/8UoCLD7hyiplEtT.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/mFanxjG8kuIYLAZ.png" width="200" height="200">
+
+Form7: an abstract painting of Latex Paint odor, Bright white and pale blue odor, Angular and geometric shape, Smooth and metal texture
+<br><img src="https://s2.loli.net/2025/01/06/blEFksc1LaVKywR.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/kOeA7Zfj4W5GLKU.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/dwnaofkzNHVbS8E.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/7BFUMRWPsp21gDI.png" width="200" height="200">
 
 ### 11 Varnish
 Form1: A painting of Varnish odor
@@ -188,6 +236,12 @@ Form4: an abstract painting of Varnish odor, Glossy whites and pale grays, Sharp
 Form5: an abstract painting of Varnish odor, Glossy whites and pale grays, Sharp and jagged lines with smooth overlays, Smooth with elements of Metal, Futurism
 <br><img src="https://s2.loli.net/2025/01/06/FZSLE4qco2v3rVs.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/2qxcjluYWazsdmG.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/bE3z8jOJhfkYgQB.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/SXC9O52yKfIVjQx.png" width="200" height="200">
 
+Form6: an abstract painting of Varnish odor, Glossy whites and pale grays, Sharp and jagged lines with smooth overlays, Smooth with elements of Metal, Mark Rothko
+<br><img src="https://s2.loli.net/2025/01/06/nD12PeMhafVlEg9.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/N3ep1cMAijanTZQ.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/t7uQdhZGorRWBz3.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/wvPnkpXHGSbz72E.png" width="200" height="200">
+
+Form7: an abstract painting of Varnish odor, Dark brown and metallic silver color, Sharp and angular line, Rough and metal texture
+<br><img src="https://s2.loli.net/2025/01/06/Ow3P1qRYrsi8vzU.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/jCIBmkKMbdVAGzW.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/NCm5zyThB8DUkH6.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/FE3UMwL9SKIfgGt.png" width="200" height="200">
+
 ### 12 Mark Pen Ink
 Form1: A painting of mark pen ink odor
 <br><img src="https://s2.loli.net/2025/01/04/GxCMFTygb9LDfsE.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/04/naKybePilqUzvE6.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/04/7jDhEes4GyJgvxw.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/04/DIjuQe3JqEaL5xk.png" width="200" height="200">
@@ -201,7 +255,14 @@ Form3: an abstract painting of Mark Pen Ink odor
 Form4: an abstract odor of mark pen ink odor, Dark and intense blacks and grays, Sharp and chaotic lines with jagged edges, Rough with elements of Metal
 <br><img src="https://s2.loli.net/2025/01/05/rAPWYB56J4u8ndm.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/05/Nj9Wi2cK4I8YPOH.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/05/9YtWM64QPLZnUks.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/05/JrskiV5AgQPmjUo.png" width="200" height="200">
 
+Form5: an abstract odor of mark pen ink odor, Dark and intense blacks and grays, Sharp and chaotic lines with jagged edges, Rough with elements of Metal, Dadaism
+<br><img src="https://s2.loli.net/2025/01/06/ZxCsG86clV1W7Ob.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/JBxgPZmsSNfKoju.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/qZVIPRKS2TfhM5p.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/RFE1GN7InJt563a.png" width="200" height="200">
 
+Form6: an abstract odor of mark pen ink odor, Dark and intense blacks and grays, Sharp and chaotic lines with jagged edges, Rough with elements of Metal, Mark Rothko
+<br><img src="https://s2.loli.net/2025/01/06/Pv9XEVkwQJydhbt.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/f6bHxu5SPNjQ2eK.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/jlqYIc8VHxoda2X.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/AOiGDLhUevIqP6t.png" width="200" height="200">
+
+Form7: an abstract painting of Shampoo odor, Light green and pastel blue color, Soft and curvy line, Smooth and fabric texture
+<br><img src="https://s2.loli.net/2025/01/06/cEbGVrYht32K1ul.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/9BKevMzNJApt1iS.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/bEQRiazkfVhJXcN.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/HLITzfr9nQxlViU.png" width="200" height="200">
 
 ### 13 Glue
 Form1: A painting of glue odor
@@ -216,6 +277,15 @@ Form3: an abstract painting of glue odor
 Form4: an abstract painting of glue odor, Dark andintense blacks and deep browns with hints of metallic silver, Jagged and irregular shapes, Rough with elements of Metal
 <br><img src="https://s2.loli.net/2025/01/05/Bq3dtMAsmDELgfX.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/05/jApX9lZCeSQV7BF.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/05/MmD3riB14tH2XxK.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/05/guEW2LT9hyqPspm.png" width="200" height="200">
 
+Form5: an abstract painting of glue odor, Dark andintense blacks and deep browns with hints of metallic silver, Jagged and irregular shapes, Rough with elements of Metal, Dadaism
+<br><img src="https://s2.loli.net/2025/01/06/9tOUcHjqVboFrCX.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/VZW8SC1QTofHdhG.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/A3BgUFr7sVe6XSi.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/5v8WgMTEPYqbtcn.png" width="200" height="200">
+
+Form6: an abstract painting of glue odor, Dark andintense blacks and deep browns with hints of metallic silver, Jagged and irregular shapes, Rough with elements of Metal, Mark Rothko
+<br><img src="https://s2.loli.net/2025/01/06/j8FycXfimS5I39e.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/q3Wtm7us5RvSp1x.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/IOi9bSRsfELxwmg.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/I7EPCQYVmklXZTb.png" width="200" height="200">
+
+Form7: an abstract painting of glue odor, Pale gray and white color, Sharp and irregular line, Smooth and corrugated texture
+<br><img src="https://s2.loli.net/2025/01/06/ejsJay6ApRbHZo9.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/yW9s3ViZvdh4RfT.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/xqUpnYCK4r3v5Wa.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/gAPlkpYwaWzRUe6.png" width="200" height="200">
+
 ### 14 Shampoo
 Form1: A painting of Shampoo odor
 <br><img src="https://s2.loli.net/2025/01/04/NljIP2ZFniUHsMJ.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/04/Azn5H2Xc3JlQVDG.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/04/pteMj9D7BW5im2T.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/04/iyBmCDgZVe3sE1L.png" width="200" height="200">
@@ -228,6 +298,15 @@ Form3: an abstract painting of Shampoo odor
 
 Form4: an abstract painting of Shampoo odor, Bright pastels like pink and green, Smooth and flowing curves, Smooth with elements of Collage
 <br><img src="https://s2.loli.net/2025/01/05/oW5zCM3OKkVLwh8.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/05/QrZRf4WqYxw7cuy.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/05/npW31Isxgt2FAl7.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/05/D4BNykCv25hsuSQ.png" width="200" height="200">
+
+Form5: an abstract painting of Shampoo odor, Bright pastels like pink and green, Smooth and flowing curves, Smooth with elements of Collage, Impressionism
+<br><img src="https://s2.loli.net/2025/01/06/7gSrbtY68MikodL.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/cWZu4gh17wVDBjr.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/b49tn6V5UJFyOXf.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/4lBZFOXRA8nUG7T.png" width="200" height="200">
+
+Form6: an abstract painting of Shampoo odor, Bright pastels like pink and green, Smooth and flowing curves, Smooth with elements of Collage, Mark Rothko
+<br><img src="https://s2.loli.net/2025/01/06/XoO4LvNqIpwFTbj.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/e9tqgmTpJa3MXi5.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/YC2rJ4kqbGoPpwK.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/B16VDQpLCP2rtb3.png" width="200" height="200">
+
+Form7: an abstract painting of Shampoo odor, Light green and pastel blue color, Soft and curvy line, Smooth and fabric texture
+<br><img src="https://s2.loli.net/2025/01/06/YdqvZik68NLDGl3.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/KgpzW4NJ9HaP5tB.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/YcA9ywztGqXpFDJ.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/XaV3Mbtl7J1UmeN.png" width="200" height="200">
 
 ### 15 Shower Gel
 Form1: A painting of Shower Gel odor
@@ -242,6 +321,15 @@ Form3: an abstract painting of Shower Gel odor
 Form4: an abstract painting of Shower Gel odor, Soft and pastel pinks and greens, Gentle and flowing curves, Smooth with elements of Fabric
 <br><img src="https://s2.loli.net/2025/01/05/Sc1MaE47zJUB3l2.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/05/rihoW2RuXmHtKUy.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/05/DitbZfTojshBl83.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/05/U7CRlTriqkKOELI.png" width="200" height="200">
 
+Form5: an abstract painting of Shower Gel odor, Soft and pastel pinks and greens, Gentle and flowing curves, Smooth with elements of Fabric, Art Nouveau
+<br><img src="https://s2.loli.net/2025/01/06/VE1QFt2eusiago9.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/CvjFRDmdKurM5Oi.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/BlSWctyFhCMaXro.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/VgrKwAjOk8FTYof.png" width="200" height="200">
+
+Forme6: an abstract painting of Shower Gel odor, Soft and pastel pinks and greens, Gentle and flowing curves, Smooth with elements of Fabric, Mark Rothko
+<br><img src="https://s2.loli.net/2025/01/06/iZFLmTl1NWQfgpX.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/ps15PFkjlJHnrNz.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/WJg5AVFh2H4B6S8.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/DZIegRayUu9t7NV.png" width="200" height="200">
+
+Form7: an abstract painting of Shower Gel odor, Light blue and pastel green color, Soft and wavy line, Smooth and fabric texture
+<br><img src="https://s2.loli.net/2025/01/06/ZiJDFeO1P7CfAMm.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/q3vMeFn2Q51XWOD.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/sIO5MuFpWgahe6E.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/gtUPSXM5ia81qBT.png" width="200" height="200">
+
 ### 16 Detergent
 Form1: A painting of Detergent odor
 <br><img src="https://s2.loli.net/2025/01/04/fTq36musyiS7M9G.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/04/YTJVLQnX5vBCzpl.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/04/5wPYeU1l8aXIrTK.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/04/dvt6Zz7gh5wDyKY.png" width="200" height="200">
@@ -254,6 +342,15 @@ Form3: an abstract painting of detergent odor
 
 Form4: an abstract painting of Detergent odor, Bright, vibrant oranges and yellows, Smooth and flowing lines with occasional sharp,Smooth with elements of Collage
 <br><img src="https://s2.loli.net/2025/01/05/Yp8zTh6Mv4LanGZ.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/05/JXyL7sElWBGeURZ.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/05/G7msPI91nwkN8ey.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/05/nzWgP7xt8JeHVZy.png" width="200" height="200">
+
+Form5: an abstract painting of Detergent odor, Bright, vibrant oranges and yellows, Smooth and flowing lines with occasional sharp,Smooth with elements of Collage, Pop Art
+<br><img src="https://s2.loli.net/2025/01/06/Fun1475zJMaPsH3.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/9OQ32Z7hxRiMjBs.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/pAiQeSJxKOgFlhn.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/sUiOy3enrJE7jSH.png" width="200" height="200">
+
+Form6: an abstract painting of Detergent odor, Bright, vibrant oranges and yellows, Smooth and flowing lines with occasional sharp,Smooth with elements of Collage, Mark Rothko
+<br><img src="https://s2.loli.net/2025/01/06/xzrld2p1Gotkma3.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/N5OAkf6txX2YL9H.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/vpBGiykPJg49hON.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/UaYPZsGAfDew4hK.png" width="200" height="200">
+
+Form7: an abstract painting of Detergent odor, Bright yellow and white color, Crisp and clean lines, Smooth and fabric texture
+<br><img src="https://s2.loli.net/2025/01/06/PudItmL5k7SXpKC.png" width="200" height="200"><img src="https://s2.loli.net/2025/01/06/GvUjdoNkBgWAR4H.png" width="200" height="200"><img src="https://s2.loli.net/2025/01/06/VzlPavF7mkQMDSK.png" width="200" height="200"><img src="https://s2.loli.net/2025/01/06/2gxFJfinhj4579N.png" width="200" height="200">
 
 ### 17 Mouthwash
 Form1: A painting of Mouthwash odor
@@ -268,6 +365,16 @@ Form3: an abstract painting of mouthwash odor
 Form4: an bastract painting of mouthwash odor, Bright, crisp greens and cool blues, Sharp and angular lines, Smooth with elements of Metal
 <br><img src="https://s2.loli.net/2025/01/05/Utw35qS6OkAuoML.png" width="200" height="200"> <img src="https://s2.loli.net/2025/01/05/bYMl1U2nova5xJm.png" width="200" height="200"> <img src="https://s2.loli.net/2025/01/05/VuDHPW9qvwKU3SQ.png" width="200" height="200"> <img src="https://s2.loli.net/2025/01/05/r2yoh65nYcxav3Q.png" width="200" height="200">
 
+Form5: an bastract painting of mouthwash odor, Bright, crisp greens and cool blues, Sharp and angular lines, Smooth with elements of Metal, Minimalism
+<br><img src="https://s2.loli.net/2025/01/06/nJci7AZQvHBwhS6.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/tcEbYk6Zmp2WdGl.png" width="200" height="200"><img src="https://s2.loli.net/2025/01/06/8aBHvcAyz6ndQbG.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/7M8P6nrH1kE329u.png" width="200" height="200">
+
+Form6: an bastract painting of mouthwash odor, Bright, crisp greens and cool blues, Sharp and angular lines, Smooth with elements of Metal, Mark Rothko
+<br><img src="https://s2.loli.net/2025/01/06/Vg25fXqpb3oaSuU.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/pvVJPq4NeyiBR9h.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/grenbWQYjhc2MAU.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/hLS8tlZCMnXk1Ux.png" width="200" height="200">
+
+Form7: an abstract painting of Mouthwash odor, Bright teal and white color,  Crisp and wavy lines, Smooth and metal texture
+<br><img src="https://s2.loli.net/2025/01/06/kzrxFfEQARpm9gd.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/HN7tlcMW8vVa6sO.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/KZOljNEkSWDgUGb.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/ZX47szgSHRmuLor.png" width="200" height="200">
+
+
 ### 18 Osmanthus Essential Oil
 Form1：A painting of Osmanthus Essential Oil odor
 <br><img src="https://s2.loli.net/2025/01/04/uyR5zMZWosSBear.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/04/c9fNgE2exBYV1mC.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/04/N4Ig6rCShau5mze.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/04/ULuIk2sXVelnzQv.png" width="200" height="200">
@@ -280,6 +387,15 @@ Form3: an abstract painting of Osmanthus Essential Oil
 
 Form4: an abstract painting of Osmanthus Essential Oil odor, Soft, golden yellows and warm pinks, Gentle and organic curves, Smooth with elements of Fabric
 <br><img src="https://s2.loli.net/2025/01/05/rcbCYts8N9mnq27.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/05/5G9RLigyX48eVJP.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/05/t5iTrUROhQ2pxIe.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/05/Spi3k4rfMyPuTQm.png" width="200" height="200">
+
+Form5: an abstract painting of Osmanthus Essential Oil odor, Soft, golden yellows and warm pinks, Gentle and organic curves, Smooth with elements of Fabric, Art Nouveau
+<br><img src="https://s2.loli.net/2025/01/06/tC7wDscvoFxRVrH.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/DeWMAH6UoPTXgIN.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/6xvTVW3rK4Uw1Xt.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/1VFDBtAJjW8rd24.png" width="200" height="200">
+
+Form6: an abstract painting of Osmanthus Essential Oil odor, Soft, golden yellows and warm pinks, Gentle and organic curves, Smooth with elements of Fabric, Mark Rothko
+<br><img src="https://s2.loli.net/2025/01/06/BSvGRfj7UibMmk3.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/zgodVY7uM2v5ri1.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/CSqByNug6l2VLdj.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/voHyGlLjpO6WQBK.png" width="200" height="200">
+
+Form7: an abstract painting of Osmanthus Essential Oil odor, Soft peach and light yellow color, Delicate and flowing lines, Smooth and fabric texture
+<br><img src="https://s2.loli.net/2025/01/06/VM8iJZglWcTXn9z.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/Z4HaSd3cTUFAbGL.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/E34OrXmSTWedwB5.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/kcRB96q2SpJ15sF.png" width="200" height="200">
 
 ### 19 Shoe Polish
 Form1: A painting of Shoe Polish odor
@@ -294,6 +410,15 @@ Form3: an abstract painting of Shoe Polish odor
 Form4：an abstract painting of shoe polish, Dark, intense blacks and deep greens,Sharp, angular forms mixed with soft, Smooth with elements of Metal
 <br><img src="https://s2.loli.net/2025/01/05/h9C1BboYQs2V3xp.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/05/pLEfNrkn9zQxGdc.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/05/hxSd4H8AbT3EXvk.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/05/fRdXiY7qwMF953g.png" width="200" height="200">
 
+Form5: an abstract painting of shoe polish, Dark, intense blacks and deep greens,Sharp, angular forms mixed with soft, Smooth with elements of Metal, Constructivism
+<br><img src="https://s2.loli.net/2025/01/06/cOrHEyaV5KPX9Wq.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/B3uRHZP4oK1LckY.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/OtJT2XEb8SlP5Dq.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/bkO6PIjJXVpNsuH.png" width="200" height="200">
+
+Form6: an abstract painting of shoe polish, Dark, intense blacks and deep greens,Sharp, angular forms mixed with soft, Smooth with elements of Metal, Mark Rothko
+<br><img src="https://s2.loli.net/2025/01/06/97fj5geAuR6sKMC.png" width="200" height="200"><img src="https://s2.loli.net/2025/01/06/sMGoATEIHY4BK3h.png" width="200" height="200"><img src="https://s2.loli.net/2025/01/06/yNGUHr1sSRivA75.png" width="200" height="200"><img src="https://s2.loli.net/2025/01/06/6FqkpKc3Yljmw5E.png" width="200" height="200">
+
+Form7: an abstract painting of Shoe Polish odor, Dark brown and black color, Angular and bold lines, Smooth and metal texture
+<br><img src="https://s2.loli.net/2025/01/06/1RY4t6mZyVUdwaC.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/WKXYIdZ1kcx9pam.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/awOrg9LkEMdfA5S.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/dbWhA3kGvrJEZ6C.png" width="200" height="200">
+
 ### 20 Laundry Liquid
 Form1: A painting of Laundry Liquid odor
 <br><img src="https://s2.loli.net/2025/01/04/M5r6bYDxSFACoZX.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/04/GPvt3qog7kjQuZf.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/04/OQ9SFe3n64qWRBE.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/04/ajk8h4DHYRErCJ3.png" width="200" height="200">
@@ -306,3 +431,12 @@ Form3: an abstract painting of Laundry Liquid odor
 
 Form4: an abstract painting of Laundry Liquid odor, Light, refreshing greens and soft pinks, Flowing, organic curves, Smooth with elements of Collage
 <br><img src="https://s2.loli.net/2025/01/05/ER73hTp61FBOaZD.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/05/PYZVeWnIE2dScGr.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/05/r6ZSVIlMBgA1FRa.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/05/MpVus4OKd3ZSDhq.png" width="200" height="200">
+
+Form5: an abstract painting of Laundry Liquid odor, Light, refreshing greens and soft pinks, Flowing, organic curves, Smooth with elements of Collage, Impressionism
+<br><img src="https://s2.loli.net/2025/01/06/asKDh5vMQt4lyxq.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/d6ZurgXE5F2aRGQ.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/7cEQkVhIvd6OJXL.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/HXjRZOU6GLJIMfp.png" width="200" height="200">
+
+Form6: an abstract painting of Laundry Liquid odor, Light, refreshing greens and soft pinks, Flowing, organic curves, Smooth with elements of Collage, Mark Rothko
+<br><img src="https://s2.loli.net/2025/01/06/7g81tFXOjzl2wpE.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/zYeKIsltr8SBJ5c.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/X3VucIGl1n6SoOJ.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/ogI91ntzArOxPFU.png" width="200" height="200">
+
+Form7: an abstract painting of Laundry Liquid, Soft blue and white color, Smooth and flowing lines, Smooth and fabric texture
+<br><img src="https://s2.loli.net/2025/01/06/1vwZMGKDrFQbHhy.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/c3Xlitrn9bvQIFj.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/g3kGLKsTWZ51fQN.png" width="200" height="200">    <img src="https://s2.loli.net/2025/01/06/2uTEILpSsCtGk8J.png" width="200" height="200">
