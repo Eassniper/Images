@@ -1,4 +1,4 @@
-![04](https://github.com/user-attachments/assets/eb584c69-71f2-48ba-98d6-c6f123410a06)# Prompts and Odor Visualization Images
+# Prompts and Odor Visualization Images
 
 ### 1 Lemon
 Form1: A Painting of Lemon odor
